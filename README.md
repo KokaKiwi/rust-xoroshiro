@@ -3,7 +3,8 @@ rust-xoroshiro
 
 Pure Rust implementation of the Xoroshiro PRNG algorithm.
 
-From: http://xoroshiro.di.unimi.it
+Source: http://xoroshiro.di.unimi.it
+API Documentation: http://kokakiwi.github.io/rust-xoroshiro/xoroshiro/index.html
 
 Benchmarks
 ----------
