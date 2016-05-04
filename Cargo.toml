@@ -1,0 +1,10 @@
+[package]
+name = "xoroshiro"
+version = "0.1.0"
+authors = ["KokaKiwi <kokakiwi@kokakiwi.net>"]
+description = "xoroshiro+ / xorshift* / xorshift+ generators implementation in Rust."
+license = "MIT"
+
+[dependencies]
+clippy = { version = "*", optional = true }
+rand = "^0.3"
